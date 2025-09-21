@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615057577164",
+    "project_id": "newtictactoe5",
+    "storage_bucket": "newtictactoe5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615057577164:android:953b943e35a8c7f88dde69",
+        "android_client_info": {
+          "package_name": "com.example.newtictactoe5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz-sMdE_m7snHhJAjuxx7GAJtK-WAmZ3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
