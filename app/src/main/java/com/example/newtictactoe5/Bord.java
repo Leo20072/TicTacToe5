@@ -107,4 +107,8 @@ public class Bord extends View {
     public Cell[][] getarr(){
         return arr;
     }
+
+    public void setNewValOnBoard(int row, int col) {
+
+    }
 }
